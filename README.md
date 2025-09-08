@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! me chamo Derik sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e pela resolução de problemas e por dados. <br><br>Minha jornada profissional me deu uma sólida experiência nas áreas administrativa e de marketing e agora estou direcionando essa bagagem para a área de TI.</p>
+<p align="left">Olá! me chamo Derik sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e pela resolução de problemas e por dados. <br><br>💡 Foco: Análise de Dados & Business Intelligence. <br>💻 Ferramentas: Python | SQL | Power BI.<br><br>Minha jornada profissional me deu uma sólida experiência nas áreas administrativa e de marketing e agora estou direcionando essa bagagem para a área de TI.</p>
 
 ###
 
@@ -28,4 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DerikConrado/DerikConrado/output/snake.svg" alt="Snake animation" />
+
+###
